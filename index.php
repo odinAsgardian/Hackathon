@@ -74,11 +74,11 @@
 	  var url = database.ref();
 	  var urlRef = url.child("Farmacia");
 	  urlRef.once("value", function(snapshot){
-	  	snapshot.forEach(function(child){
+	  	snapshot.forEach(function(child, i){
 	  		console.log(child.key+": "+child.val().descricao + ": " +child.val().loteUm);
-	  		var sn = snapshot.child.val().loteUm.forEach(function(child){
-	  			console.log(child.key+ ": "+ child.val());
-	  		});
+	  		// var sn = snapshot[i].child.val().loteUm.forEach(function(children){
+	  		// 	console.log(children.key+ ": "+ children.val());
+	  		// });
 	  	});
 	  });
 	</script>
