@@ -474,35 +474,6 @@
       "altura" : 8.0,
       "comprimento" : 18.0,
       "largura" : 9.5
-    }],
-
-
-    "estantes":[{
-        "pratileira_E": {
-          "altura": 39.4,
-          "comprimento": 58.0,
-          "largura": 91.2
-        },
-        "pratileira_D": {
-          "altura": 39.4,
-          "comprimento": 58.0,
-          "largura": 91.2
-        },
-        "pratileira_C": {
-          "altura": 39.4,
-          "comprimento": 58.0,
-          "largura": 91.2
-        },
-        "pratileira_B": {
-          "altura": 39.4,
-          "comprimento": 58.0,
-          "largura": 91.2
-        },
-        "pratileira_A": {
-          "altura": 39.4,
-          "comprimento": 58.0,
-          "largura": 91.2
-        }
     }]
   
 }
