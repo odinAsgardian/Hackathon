@@ -20,6 +20,7 @@
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/bootstrap-theme.css">
 		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+	        <link rel="stylesheet" type="text/css" href="css/table.css">
 	</head>
 	<body>
 	<div class="container container-fluid">
@@ -57,6 +58,5 @@
 		    <?php endforeach ?>
                 </table>
         </center>
-        <link rel="stylesheet" type="text/css" href="css/table.css">
     </body>
 </html>
