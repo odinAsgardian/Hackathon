@@ -3,7 +3,7 @@
 	public class Farmacia{
 
 		public $custoUnidade;
-		public Produtos $produtos = array();
+		public $produtos = new Produtos();
 
 
 		public function ABC($demanda, $valorTotal, $quantidade){
