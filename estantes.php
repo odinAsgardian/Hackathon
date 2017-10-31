@@ -34,9 +34,9 @@
 		$json_str = json_decode($json_file, true);
 		$itens = $json_str['nodes'];
 
-		foreach ( $itens['Farmacia'] as $val) { 
-			echo $val['descricao'] ."<br>"; 
-		} 
+		// foreach ( $itens['Farmacia'] as $val) { 
+		// 	echo $val['descricao'] ."<br>"; 
+		// } 
 
 
 
