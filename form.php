@@ -1,3 +1,14 @@
+<?php
+    session_start();
+ 
+    if (!isset($_SESSION['produtos'])) {
+         $_SESSION['produtos'] = array();
+     }
+ 
+     $dados = $_SESSION['produtos'];
+     sort($dados);
+ 
+ ?>
 <!DOCTYPE html>
 <html>
 	<head>
