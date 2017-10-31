@@ -1,0 +1,87 @@
+{
+
+
+ "dimensões":[{
+      "altura" : 4,
+      "comprimento" : 13.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 7,
+      "comprimento" : 18.5,
+      "largura" : 11.0
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.5,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 20.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 3.4,
+      "comprimento" : 10.5,
+      "largura" : 6.5
+    },
+
+     {
+      "altura" : 6.5,
+      "comprimento" : 3.0,
+      "largura" : 3.0
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.0,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 20.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 10.5,
+      "largura" : 8.5
+    },
+
+     {
+      "altura" : 2.0,
+      "comprimento" : 12.0,
+      "largura" : 5.0
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.0,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.0,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 3.4,
+      "comprimento" : 10.5,
+      "largura" : 6.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 18.0,
+      "largura" : 9.5
+    }]
+}

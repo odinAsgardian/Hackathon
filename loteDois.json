@@ -1,0 +1,102 @@
+{
+	"loteDois":[
+
+		{
+	      "entrada" : "15/07/2017",
+	      "quantidade" : 1000,
+	      "validade" : "15/07/2018",
+	      "venda" : 120
+	    } ,
+
+	    {
+	      "entrada" : "10/07/2017",
+	      "quantidade" : 150,
+	      "validade" : "10/07/2019",
+	      "venda" : 80
+	    } ,
+
+	    {
+	      "entrada" : "15/07/2017",
+	      "quantidade" : 1000,
+	      "validade" : "15/07/2020",
+	      "venda" : 900
+	    } ,
+
+	    {
+	      "entrada" : "15/07/2017",
+	      "quantidade" : 500,
+	      "validade" : "15/07/2018",
+	      "venda" : 200
+	    } ,
+
+	    {
+	      "entrada" : "04/08/2017",
+	      "quantidade" : 1000,
+	      "validade" : "05/08/2019",
+	      "venda" : 500
+	    } ,
+
+	    {
+	      "entrada" : "16/08/2017",
+	      "quantidade" : 150,
+	      "validade" : "16/08/2020",
+	      "venda" : 100
+	    } ,
+
+	    {
+	      "entrada" : "17/07/2017",
+	      "quantidade" : 100,
+	      "validade" : "17/07/2020",
+	      "venda" : 50
+	    } ,
+
+	    {
+	      "entrada" : "15/07/2017",
+	      "quantidade" : 40,
+	      "validade" : "15/07/2019",
+	      "venda" : 25
+	    } ,
+
+	    {
+	      "entrada" : "19/07/2017",
+	      "quantidade" : 100,
+	      "validade" : "19/07/2017",
+	      "venda" : 50
+	    } ,
+
+	    {
+	      "entrada" : "20/07/2017",
+	      "quantidade" : 300,
+	      "validade" : "20/07/2018",
+	      "venda" : 100
+	    } ,
+
+	    {
+	      "entrada" : "21/07/2017",
+	      "quantidade" : 400,
+	      "validade" : "21/07/2018",
+	      "venda" : 200
+	    } ,
+
+	    {
+	      "entrada" : "21/07/2017",
+	      "quantidade" : 400,
+	      "validade" : "21/07/2018",
+	      "venda" : 200
+	    } ,
+
+	    {
+	      "entrada" : "18/07/2017",
+	      "quantidade" : 300,
+	      "validade" : "18/07/2018",
+	      "venda" : 180
+	    } ,
+
+	    {
+	      "entrada" : "19/07/2017",
+	      "quantidade" : 300,
+	      "validade" : "19/07/2018",
+	      "venda" : 300
+	    } 
+    ]
+}

@@ -1,0 +1,479 @@
+{
+  "Farmacia" : [ {
+    "demandaAnual" : 20000,
+    "descricao" : "Pantoprazol sódico 40 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 46.44,
+    "qtdPorCaixas" : 28,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 5000,
+    "descricao" : "Pantoprazol sódico 40 mg",
+    "embalagem" : "Fracionável",
+    "precoPorCaixa" : 179.15,
+    "qtdPorCaixas" : 280,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 30000,
+    "descricao" : "Dimeticona 40 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 7.41,
+    "qtdPorCaixas" : 20,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 3000,
+    "descricao" : "Dimeticona 40 mg",
+    "embalagem" : "Fracionável",
+    "precoPorCaixa" : 129.0,
+    "qtdPorCaixas" : 400,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 15000,
+    "descricao" : "Ibuprofeno 600 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 10.0,
+    "qtdPorCaixas" : 20,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 5000,
+    "descricao" : "Colirio Claril gotas",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 26.5,
+    "qtdPorCaixas" : 1,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 3500,
+    "descricao" : "Predinisona 20 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 5.59,
+    "qtdPorCaixas" : 10,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 1200,
+    "descricao" : "Predinisona 20 mg",
+    "embalagem" : "Fracionável",
+    "precoPorCaixa" : 80.0,
+    "qtdPorCaixas" : 500,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 2500,
+    "descricao" : "Loratadina 10 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 26.36,
+    "qtdPorCaixas" : 12,
+    "um" : "CX"
+  },
+   {
+    "demandaAnual" : 8000,
+    "descricao" : "Dorflex  comprimidos",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 8.9,
+    "qtdPorCaixas" : 12,
+    "um" : "CX"
+  }, 
+  {
+    "demandaAnual" : 12000,
+    "descricao" : "Dipirona sódica 10 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 6.8,
+    "qtdPorCaixas" : 20,
+    "um" : "CX"
+  }, 
+  {
+    "demandaAnual" : 4500,
+    "descricao" : "Dipirona sódica 10 mg",
+    "embalagem" : "Fracionável",
+    "precoPorCaixa" : 92.8,
+    "qtdPorCaixas" : 500,
+    "um" : "CX"
+  }, 
+  {
+    "demandaAnual" : 9000,
+    "descricao" : "Paracetamol 20 mg",
+    "embalagem" : "Individual",
+    "precoPorCaixa" : 27.8,
+    "qtdPorCaixas" : 20,
+    "um" : "CX"
+  }, 
+  {
+    "demandaAnual" : 9000,
+    "descricao" : "Paracetamol 20 mg",
+    "embalagem" : "Fracionável",
+    "precoPorCaixa" : 27.8,
+    "qtdPorCaixas" : 400,
+    "um" : "CX"
+  }],
+
+
+
+
+
+  "loteDois": [ 
+    {
+    "entrada" : "15/07/2017",
+    "quantidade" : 1000,
+    "validade" : "15/07/2018",
+    "venda" : 120
+  }, {
+    "entrada" : "10/07/2017",
+    "quantidade" : 150,
+    "validade" : "10/07/2019",
+    "venda" : 80
+  }, {
+    "entrada" : "15/07/2017",
+    "quantidade" : 1000,
+    "validade" : "15/07/2020",
+    "venda" : 900
+  }, {
+    "entrada" : "15/07/2017",
+    "quantidade" : 500,
+    "validade" : "15/07/2018",
+    "venda" : 200
+  }, {
+    "entrada" : "04/08/2017",
+    "quantidade" : 1000,
+    "validade" : "05/08/2019",
+    "venda" : 500
+  }, {
+    "entrada" : "16/08/2017",
+    "quantidade" : 150,
+    "validade" : "16/08/2020",
+    "venda" : 100
+  }, {
+    "entrada" : "17/07/2017",
+    "quantidade" : 100,
+    "validade" : "17/07/2020",
+    "venda" : 50
+  }, {
+    "entrada" : "15/07/2017",
+    "quantidade" : 40,
+    "validade" : "15/07/2019",
+    "venda" : 25
+  }, {
+    "entrada" : "19/07/2017",
+    "quantidade" : 100,
+    "validade" : "19/07/2017",
+    "venda" : 50
+  }, {
+    "entrada" : "20/07/2017",
+    "quantidade" : 300,
+    "validade" : "20/07/2018",
+    "venda" : 100
+  }, {
+    "entrada" : "21/07/2017",
+    "quantidade" : 400,
+    "validade" : "21/07/2018",
+    "venda" : 200
+  }, {
+    "entrada" : "21/07/2017",
+    "quantidade" : 400,
+    "validade" : "21/07/2018",
+    "venda" : 200
+  }, {
+    "entrada" : "18/07/2017",
+    "quantidade" : 300,
+    "validade" : "18/07/2018",
+    "venda" : 180
+  }, {
+    "entrada" : "19/07/2017",
+    "quantidade" : 300,
+    "validade" : "19/07/2018",
+    "venda" : 300
+  } ],
+
+
+
+
+
+
+  "loteTres" : [ 
+    {
+      "entrada" : "25/07/2017",
+      "quantidade" : 500,
+      "validade" : "25/07/2018",
+      "venda" : 500
+    },
+
+    {
+      "entrada" : "20/07/2017",
+      "quantidade" : 200,
+      "validade" : "20/07/2019",
+      "venda" : 80
+    },
+
+    {
+      "entrada" : "28/07/2017",
+      "quantidade" : 1000,
+      "validade" : "25/07/2020",
+      "venda" : 500
+    },
+
+    {
+      "entrada" : "25/07/2017",
+      "quantidade" : 500,
+      "validade" : "25/07/2018",
+      "venda" : 200
+    },
+
+    {
+      "entrada" : "04/08/2017",
+      "quantidade" : 1000,
+      "validade" : "05/08/2019",
+      "venda" : 500
+    },
+
+    {
+      "entrada" : "26/08/2017",
+      "quantidade" : 200,
+      "validade" : "26/08/2019",
+      "venda" : 100
+    },
+
+    {
+      "entrada" : "27/07/2017",
+      "quantidade" : 150,
+      "validade" : "27/07/2019",
+      "venda" : 50
+    },
+
+    {
+      "entrada" : "27/07/2017",
+      "quantidade" : 40,
+      "validade" : "27/04/2018",
+      "venda" : 50
+    },
+
+    {
+      "entrada" : "29/07/2017",
+      "quantidade" : 50,
+      "validade" : "29/07/2017",
+      "venda" : 50
+    },
+
+    {
+      "entrada" : "30/07/2017",
+      "quantidade" : 200,
+      "validade" : "0/08/2018",
+      "venda" : 100
+    },
+
+    {
+      "entrada" : "31/07/2017",
+      "quantidade" : 400,
+      "validade" : "31/08/2018",
+      "venda" : 200
+    },
+
+    {
+      "entrada" : "31/07/2017",
+      "quantidade" : 400,
+      "validade" : "31/08/2018",
+      "venda" : 200
+    },
+
+    {
+      "entrada" : "28/07/2017",
+      "quantidade" : 300,
+      "validade" : "28/08/2018",
+      "venda" : 180
+    },
+
+    {
+      "entrada" : "27/07/2017",
+      "quantidade" : 300,
+      "validade" : "27/08/2018",
+      "venda" : 300
+    }],
+
+
+
+  "loteUm" : [ 
+    {
+      "entrada" : "01/07/2017",
+      "quantidade" : 500,
+      "validade" : "02/07/2018",
+      "venda" : 300
+    },
+      
+      {
+        "entrada" : "01/07/2017",
+        "quantidade" : 150,
+        "validade" : "02/07/2019",
+        "venda" : 80
+      },
+      
+      {
+        "entrada" : "03/07/2017",
+        "quantidade" : 1000,
+        "validade" : "04/07/2020",
+        "venda" : 900
+      },
+      
+      {
+        "entrada" : "05/07/2017",
+        "quantidade" : 500,
+        "validade" : "05/08/2018",
+        "venda" : 200
+      },
+      
+      {
+        "entrada" : "04/08/2017",
+        "quantidade" : 1000,
+        "validade" : "05/08/2019",
+        "venda" : 500
+      },
+      
+      {
+        "entrada" : "06/08/2017",
+        "quantidade" : 150,
+        "validade" : "06/08/2020",
+        "venda" : 100
+      },
+      
+      {
+        "entrada" : "07/07/2017",
+        "quantidade" : 100,
+        "validade" : "07/07/2019",
+        "venda" : 50
+      },
+      
+      {
+        "entrada" : "07/07/2017",
+        "quantidade" : 40,
+        "validade" : "07/04/2018",
+        "venda" : 25
+      },
+      
+      {
+        "entrada" : "09/07/2017",
+        "quantidade" : 100,
+        "validade" : "09/07/2017",
+        "venda" : 50
+      },
+      
+      {
+        "entrada" : "10/07/2017",
+        "quantidade" : 300,
+        "validade" : "10/07/2018",
+        "venda" : 100
+      },
+      
+      {
+        "entrada" : "11/07/2017",
+        "quantidade" : 400,
+        "validade" : "11/07/2018",
+        "venda" : 200
+      },
+      
+      {
+        "entrada" : "11/07/2017",
+        "quantidade" : 400,
+        "validade" : "11/07/2018",
+        "venda" : 200
+      },
+      
+      {
+        "entrada" : "13/07/2017",
+        "quantidade" : 300,
+        "validade" : "13/07/2018",
+        "venda" : 180
+    }],
+
+
+
+
+    "dimensoes": [
+
+      {
+      "altura" : 4,
+      "comprimento" : 13.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 7,
+      "comprimento" : 18.5,
+      "largura" : 11.0
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.5,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 20.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 3.4,
+      "comprimento" : 10.5,
+      "largura" : 6.5
+    },
+
+     {
+      "altura" : 6.5,
+      "comprimento" : 3.0,
+      "largura" : 3.0
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.0,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 20.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 10.5,
+      "largura" : 8.5
+    },
+
+     {
+      "altura" : 2.0,
+      "comprimento" : 12.0,
+      "largura" : 5.0
+    },
+
+     {
+      "altura" : 2.5,
+      "comprimento" : 11.0,
+      "largura" : 4.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 20.5,
+      "largura" : 9.5
+    },
+
+     {
+      "altura" : 3.4,
+      "comprimento" : 10.5,
+      "largura" : 6.5
+    },
+
+     {
+      "altura" : 8.0,
+      "comprimento" : 18.0,
+      "largura" : 9.5
+    }]
+  
+}
