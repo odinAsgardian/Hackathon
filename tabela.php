@@ -70,13 +70,13 @@
 	   <table class="table">
 	   		<thead>
 	   			<tr>	
-		   			<th>descrição</th>
-		   			<th>demanda anual</th>
-		   			<th>embalagem</th>
-		   			<th>preço p/ caixa</th>
-		   			<th>quantidade p/ caixa</th>
+		   			<th>Descrição</th>
+		   			<th>Demanda_anual</th>
+		   			<th>Embalagem</th>
+		   			<th>Preço p/ caixa</th>
+		   			<th>Quantidade p/ caixa</th>
 		   			<th>U.M</th>
-		   			<th>caixas lado a lado</th>
+		   			<th>Caixas lado a lado</th>
 	   			</tr>
 	   		</thead>
 		   		<tbody>
